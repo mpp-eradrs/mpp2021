@@ -154,8 +154,7 @@ $ module load nvidia/nvhpc/21.3
 As submissões serão por meio de um repositório GitHub Classroom.  O sistema de avaliação irá atualizar os resultados baseados nos repositório criados.
 
 Cada equipe terá seu repositório com acesso restrito. 
-Este repositório será ligado ao usuário GitHub da pessoa que criar o respositório podendo adicionar colaboradores da mesma equipe em seguida. O repositório pode ser criado através do link:
-- https://classroom.github.com/g/Mg32QVlL
+Este repositório será ligado ao usuário GitHub da pessoa que criar o respositório podendo adicionar colaboradores da mesma equipe em seguida. O repositório pode ser criado através do link enviado por email.
 
 Os passos para criar o seu repositório com a sua equipe são:
 - Entre no link acima
