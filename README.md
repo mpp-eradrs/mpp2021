@@ -2,6 +2,8 @@
 
 Esta página descreve o desafio proposta na Maratona de Programação Paralela da ERAD/RS 2021. A maratona deste ano conta com o apoio da [Dell](https://www.dell.com/pt-br) e [NVIDIA](https://www.nvidia.com/pt-br/).
 
+Placar: https://mpp-eradrs.github.io/
+
 Boa sorte a todos e bom desafio!
 
 # Desafio proposto - miniCFD
